@@ -1,7 +1,7 @@
 <template lang='pug'>
 article
   TntBlogList(v-if='articles' :articles='articles')
-  footer.hidden(v-if='pages')
+  footer
     NuxtLink(v-for='page in pages' :key='page.slug' :to='page') {{ page.title }}
 </template>
 
