@@ -1496,7 +1496,7 @@
 
 "@thombruce/tnt@https://github.com/thombruce/tnt":
   version "0.1.0"
-  resolved "https://github.com/thombruce/tnt#2ddcf62ebaf781c24ad644f76b661f5111b1c177"
+  resolved "https://github.com/thombruce/tnt#63d0b1f5d1acc4b4da1aa2ba0be745d8d3120b7e"
   dependencies:
     "@fortawesome/free-solid-svg-icons" "^5.15.3"
     "@nuxt/image" "^0.4.14"
@@ -9247,9 +9247,9 @@ simple-get@^3.0.3, simple-get@^3.1.0:
     simple-concat "^1.0.0"
 
 simple-icons@^5.0.0:
-  version "5.10.0"
-  resolved "https://registry.yarnpkg.com/simple-icons/-/simple-icons-5.10.0.tgz#ae7767fe171f7772a12ef4d1a46c71048a81bed4"
-  integrity sha512-nM6tUZo1Jc/7wweg/RreDENIF7GAJ4V7jzDojV0DRdIKD1Fxvv0PnUxhV37ZCNuwM98fBa5nQfFNKuQRsNLtIQ==
+  version "5.9.0"
+  resolved "https://registry.yarnpkg.com/simple-icons/-/simple-icons-5.9.0.tgz#00d9d7df86e226da3ef2277aef470daa8285a6ec"
+  integrity sha512-L6sHzUQkMYTTvFTcVxxkI+uoL2MSbM/yQ7rTEcv9V4crzO/2Yn5dyJAJV1kJV+NIMfnIxLMAAN3UwGaivehpVw==
 
 simple-swizzle@^0.2.2:
   version "0.2.2"
