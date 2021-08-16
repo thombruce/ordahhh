@@ -1,0 +1,13 @@
+{
+    "version": "https://jsonfeed.org/version/1",
+    "items": [
+        {
+            "id": "https://ordahhh.thombruce.com/blog/ordahhh-ordahhh",
+            "url": "https://ordahhh.thombruce.com/blog/ordahhh-ordahhh",
+            "title": "Ordahhh, Ordahhh!",
+            "summary": "There will be Ordahhh!",
+            "image": "https://ordahhh.thombruce.com/ordahhh.jpg",
+            "date_modified": "2021-08-15T02:14:15.000Z"
+        }
+    ]
+}
