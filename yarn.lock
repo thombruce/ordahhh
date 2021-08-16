@@ -1058,9 +1058,9 @@
     wrap-ansi "^7.0.0"
 
 "@nuxt/components@^2.1.8":
-  version "2.2.0"
-  resolved "https://registry.yarnpkg.com/@nuxt/components/-/components-2.2.0.tgz#8e97f01db71665d10ac94614df76c662a9b9f63e"
-  integrity sha512-D7kxuboGDCd8lFU7zYH9iVUT7IL6nMHLCp0ajvRS26Y5gZRggkXMnGGNp7oCv0FY7UVySmJ7wzy0Ctl46eKqdw==
+  version "2.2.1"
+  resolved "https://registry.yarnpkg.com/@nuxt/components/-/components-2.2.1.tgz#49c4442ac5a0ef49f49ef7d9960f4376fc3e7c78"
+  integrity sha512-r1LHUzifvheTnJtYrMuA+apgsrEJbxcgFKIimeXKb+jl8TnPWdV3egmrxBCaDJchrtY/wmHyP47tunsft7AWwg==
   dependencies:
     chalk "^4.1.2"
     chokidar "^3.5.2"
@@ -1496,7 +1496,7 @@
 
 "@thombruce/tnt@https://github.com/thombruce/tnt":
   version "0.1.0"
-  resolved "https://github.com/thombruce/tnt#63d0b1f5d1acc4b4da1aa2ba0be745d8d3120b7e"
+  resolved "https://github.com/thombruce/tnt#4cf434a26b0d8839f12078a00acca78c12f94739"
   dependencies:
     "@fortawesome/free-solid-svg-icons" "^5.15.3"
     "@nuxt/image" "^0.4.14"
@@ -9247,9 +9247,9 @@ simple-get@^3.0.3, simple-get@^3.1.0:
     simple-concat "^1.0.0"
 
 simple-icons@^5.0.0:
-  version "5.9.0"
-  resolved "https://registry.yarnpkg.com/simple-icons/-/simple-icons-5.9.0.tgz#00d9d7df86e226da3ef2277aef470daa8285a6ec"
-  integrity sha512-L6sHzUQkMYTTvFTcVxxkI+uoL2MSbM/yQ7rTEcv9V4crzO/2Yn5dyJAJV1kJV+NIMfnIxLMAAN3UwGaivehpVw==
+  version "5.10.0"
+  resolved "https://registry.yarnpkg.com/simple-icons/-/simple-icons-5.10.0.tgz#ae7767fe171f7772a12ef4d1a46c71048a81bed4"
+  integrity sha512-nM6tUZo1Jc/7wweg/RreDENIF7GAJ4V7jzDojV0DRdIKD1Fxvv0PnUxhV37ZCNuwM98fBa5nQfFNKuQRsNLtIQ==
 
 simple-swizzle@^0.2.2:
   version "0.2.2"
