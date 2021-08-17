@@ -1505,7 +1505,7 @@
 
 "@thombruce/tnt@https://github.com/thombruce/tnt":
   version "0.1.0"
-  resolved "https://github.com/thombruce/tnt#81abd1061f86c4aafd8859efef6857b5a6a0978e"
+  resolved "https://github.com/thombruce/tnt#5cad52b7dfc228228dbd4f912beda7fcbd870339"
   dependencies:
     "@fortawesome/free-solid-svg-icons" "^5.15.4"
     "@nuxt/image" "^0.5.0"
@@ -3733,9 +3733,9 @@ cyclist@^1.0.1:
   integrity sha1-WW6WmP0MgOEgOMK4LW6xs1tiJNk=
 
 daisyui@^1.11.1:
-  version "1.11.1"
-  resolved "https://registry.yarnpkg.com/daisyui/-/daisyui-1.11.1.tgz#6d0fdeb6f1e2015c98b7ddc36eb29a176e252c0b"
-  integrity sha512-re9r/yJ3SvoQ6MnteakFgLnie63l9hdg+X4/4/+g3Py9F1TL3yPGQrpszBYz6sM123IJsCMxQZdTPFlu85xP1Q==
+  version "1.12.0"
+  resolved "https://registry.yarnpkg.com/daisyui/-/daisyui-1.12.0.tgz#cd270d2a7348ff42980b7d51e4be27744ab00bdf"
+  integrity sha512-Rtt4GbcA3Z81T9TipM6UkqGwxS9v7vOEI9Fyr0+CdJmTsvrDqdYgh4Z8Uhgftt3F0Eqrq1HljnFUK/FPk46gkg==
 
 de-indent@^1.0.2:
   version "1.0.2"
@@ -10039,9 +10039,9 @@ ua-parser-js@^0.7.28:
   integrity sha512-6Gurc1n//gjp9eQNXjD9O3M/sMwVtN5S8Lv9bvOYBfKfDNiIIhqiyi01vMBO45u4zkDE420w/e0se7Vs+sIg+g==
 
 ufo@^0.7.4, ufo@^0.7.5, ufo@^0.7.7:
-  version "0.7.7"
-  resolved "https://registry.yarnpkg.com/ufo/-/ufo-0.7.7.tgz#0062f9e5e790819b0fb23ca24d7c63a4011c036a"
-  integrity sha512-N25aY3HBkJBnahm+2l4JRBBrX5I+JPakF/tDHYDTjd3wUR7iFLdyiPhj8mBwBz21v728BKwM9L9tgBfCntgdlw==
+  version "0.7.8"
+  resolved "https://registry.yarnpkg.com/ufo/-/ufo-0.7.8.tgz#25a29493a7f4321dd197fd47e3da762ad2e0b4aa"
+  integrity sha512-SXYVhsOPnOKTPUszaGUwM35DqR0ZCm9OPaNHsA7FTVDdzpoQtsm+3uB3XeuHbww0e5vIHEdvDi/u6Qu6GT6Wog==
 
 uglify-js@^3.5.1:
   version "3.14.1"
